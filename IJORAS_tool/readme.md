@@ -12,3 +12,6 @@ This should be the efficient method to convert it to correct format.
 It is possible the DOI does not has the correct page number, so you still need to check the reference if it is only shown single page instead of double page.
 
 
+I just notice the based_doi has a problem whereby the doi maybe obtained other information which resutls into a different reference. Please dont use it.
+
+
